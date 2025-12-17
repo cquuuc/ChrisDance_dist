@@ -12,29 +12,5 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     
-    <!-- 轮播图片 -->
-    <image:image>
-      <image:loc>https://chris-dance.vercel.app/assets/banner1.png</image:loc>
-      <image:caption>主页轮播图1</image:caption>
-    </image:image>
   </url>
-  
-    <url>
-    <loc>https://chris-dance.vercel.app/report</loc>
-    <lastmod>2025-12-12T08:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-
-  <url>
-    <loc>https://chris-dance.vercel.app/site</loc>
-    <lastmod>2025-12-12T08:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-
-
-
 </urlset>
